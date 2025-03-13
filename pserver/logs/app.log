@@ -1,0 +1,22 @@
+2025-03-12 04:53:16,100 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.142:5000
+2025-03-12 04:53:16,101 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-12 04:53:16,105 - INFO -  * Restarting with stat
+2025-03-12 04:53:19,341 - WARNING -  * Debugger is active!
+2025-03-12 04:53:19,350 - INFO -  * Debugger PIN: 301-835-746
+2025-03-12 04:54:05,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.142:5000
+2025-03-12 04:54:05,657 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-12 04:54:05,660 - INFO -  * Restarting with stat
+2025-03-12 04:54:07,589 - WARNING -  * Debugger is active!
+2025-03-12 04:54:07,596 - INFO -  * Debugger PIN: 301-835-746
+2025-03-12 05:00:39,269 - INFO -  * Detected change in 'C:\\Users\\SON GOKU\\Desktop\\yt\\utils.py', reloading
+2025-03-12 05:00:39,761 - INFO -  * Restarting with stat
+2025-03-12 05:00:43,773 - WARNING -  * Debugger is active!
+2025-03-12 05:00:43,786 - INFO -  * Debugger PIN: 301-835-746
+2025-03-12 05:00:46,731 - INFO -  * Detected change in 'C:\\Users\\SON GOKU\\Desktop\\yt\\downloader.py', reloading
+2025-03-12 05:00:46,966 - INFO -  * Restarting with stat
